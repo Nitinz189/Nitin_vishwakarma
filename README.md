@@ -7,10 +7,10 @@
 I am a data analyst with practical experience building dashboards, cleaning data, and generating actionable insights.
 
 ## Projects
-1. **Call Center Dashboard (Power BI)** – Centralised operational metrics dashboard  
+1. [**Call Center Dashboard (Power BI)** – Centralised operational metrics dashboard](https://github.com/Nitinz189/Call_Center_Dashboard_Power_BI)  
 2. [**E-Commerce SQL Design** – SQL database schema + queries](https://github.com/Nitinz189/EComm-SQL_Database_Design-project)
-3. **Excel EDA & Reports** – Data cleaning + business reporting examples  
-4. **Python EDA Report** – Exploratory analysis with Python
+3. **Excel EDA & Reports** – Data cleaning + business reporting examples](https://github.com/Nitinz189/Excel-EDA-and-reports)  
+4. **Python EDA Report** – Exploratory analysis with Python](https://github.com/Nitinz189/Python-EDA-report)
 
 📌 Actively seeking entry-level MIS / Reporting / Data Analyst roles in India.
 
