@@ -9,7 +9,7 @@ I am a data analyst with practical experience building dashboards, cleaning data
 
 
 ## Projects
-1.[**Gearwave-Defect-Analysis**](https://github.com/Nitinz189/Gearwave-Defect-Analysis)
+1. [**Gearwave-Defect-Analysis**](https://github.com/Nitinz189/Gearwave-Defect-Analysis)
 
 2. [**Call Centre Performance & Revenue Analytics** – Centralised operational metrics dashboard](https://github.com/Nitinz189/Call_Center_Dashboard_Power_BI)
    
